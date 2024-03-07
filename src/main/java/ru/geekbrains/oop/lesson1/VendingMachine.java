@@ -1,7 +1,5 @@
 package ru.geekbrains.oop.lesson1;
 
-import ru.geekbrains.oop.lesson1.sample.Chocolate;
-
 import java.util.List;
 
 public class VendingMachine {

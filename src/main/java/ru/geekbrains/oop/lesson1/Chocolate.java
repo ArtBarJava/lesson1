@@ -1,4 +1,4 @@
-package ru.geekbrains.oop.lesson1.sample;
+package ru.geekbrains.oop.lesson1;
 
 import ru.geekbrains.oop.lesson1.Product;
 
